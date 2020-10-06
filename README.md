@@ -1,2 +1,2 @@
 # Google-AHF
-Google mājas lapa un rvt meklēšanas rezultāts
+Google mājas lapa
